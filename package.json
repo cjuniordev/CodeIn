@@ -1,0 +1,25 @@
+{
+  "name": "codein",
+  "version": "1.0.0",
+  "description": "Repositório dedicado ao aprendizado de programação, com exemplos, exercícios e recursos para aprimorar habilidades em desenvolvimento",
+  "homepage": "https://github.com/cjuniordev/CodeIn#readme",
+  "bugs": {
+    "url": "https://github.com/cjuniordev/CodeIn/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjuniordev/CodeIn.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
